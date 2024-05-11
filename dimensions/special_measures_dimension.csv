@@ -1,0 +1,20 @@
+Special_Measures_key,Title,Description,keyword_1,keyword_2,start_date,end_date,value
+0,school_closure," require closing (only some levels or categories, eg just high school, or just public schools)",school,closure,2020-10-06,2020-10-22,2.0
+1,school_closure,recommend closing or all schools open with alterations,school,closure,2020-10-23,2020-10-29,1.0
+2,school_closure," require closing (only some levels or categories, eg just high school, or just public schools)",school,closure,2020-10-30,2020-12-18,2.0
+3,school_closure,require closing all levels,school,closure,2020-12-19,2021-02-06,3.0
+4,workplace_closure,require closing (or work from home) for some sectors or categories of workers,workplace,closure,2020-10-06,2020-11-22,2.0
+5,workplace_closure,"require closing (or work from home) for all-but-essential workplaces (eg grocery stores, doctors)",workplace,closure,2020-11-23,2021-02-06,3.0
+6,cancel_public_event,recommend cancelling,cancel,public-event,2020-10-06,2020-11-22,1.0
+7,cancel_public_event,require cancelling,cancel,public-event,2020-11-23,2021-02-06,2.0
+8,restrictions_on_gatherings,restrictions on gatherings between 11-100 people,restrictions,on-gatherings,2020-10-06,2020-10-09,3.0
+9,restrictions_on_gatherings,restrictions on gatherings of 10 people or less,restrictions,on-gatherings,2020-10-10,2021-02-06,4.0
+10,close_public_transport,recommend closing (or significantly reduce volume/route/means of transport available),close,public-transport,2020-10-06,2021-02-06,1.0
+11,stay_at_home,recommend not leaving house,stay,at-home,2020-10-10,2020-12-25,1.0
+12,stay_at_home,"require not leaving house with exceptions for daily exercise, grocery shopping, and 'essential' trips",stay,at-home,2020-12-26,2021-02-06,2.0
+13,restrictions_internal_mvt,recommend not to travel between regions/cities,restrictions,internal-mvt,2020-12-26,2021-02-06,1.0
+14,intern_travel_control,ban on all regions or total border closure,intern,travel-control,2020-10-06,2021-02-06,4.0
+15,contact_tracing,limited contact tracing; not done for all cases,contact,tracing,2020-10-06,2020-11-03,1.0
+16,contact_tracing,comprehensive contact tracing; done for all identified cases,contact,tracing,2020-11-04,2020-11-18,2.0
+17,contact_tracing,limited contact tracing; not done for all cases,contact,tracing,2020-11-19,2021-02-06,1.0
+18,facial_coverings,"facial covering required in some specified shared/public spaces outside the home with other people present, or some situations when social distancing not possible",facial,coverings,2020-10-06,2021-02-06,2.0

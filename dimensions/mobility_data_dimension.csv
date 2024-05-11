@@ -1,0 +1,745 @@
+mobility_key,province,subregion,retail_and_recreation,grocery_and_pharmacy,parks,transit_stations,workplaces,residential
+0,Ontario,Ottawa Division,-28.0,-6.0,-4.0,-64.0,-53.0,18.0
+1,Ontario,Ottawa Division,-32.0,-9.0,-26.0,-68.0,-53.0,19.0
+2,Ontario,Ottawa Division,-24.0,3.0,5.0,-61.0,-52.0,18.0
+3,Ontario,Ottawa Division,-29.0,0.0,19.0,-57.0,-50.0,17.0
+4,Ontario,Ottawa Division,-29.0,1.0,89.0,-49.0,-4.0,6.0
+5,Ontario,Ottawa Division,-27.0,4.0,96.0,-51.0,0.0,3.0
+6,Ontario,Ottawa Division,-70.0,-62.0,42.0,-81.0,-84.0,24.0
+7,Ontario,Ottawa Division,-34.0,-7.0,-28.0,-65.0,-55.0,20.0
+8,Ontario,Ottawa Division,-31.0,-6.0,23.0,-63.0,-53.0,19.0
+9,Ontario,Ottawa Division,-33.0,-9.0,-25.0,-64.0,-54.0,21.0
+10,Ontario,Ottawa Division,-35.0,-8.0,-3.0,-61.0,-50.0,20.0
+11,Ontario,Ottawa Division,-25.0,-2.0,107.0,-46.0,-7.0,6.0
+12,Ontario,Ottawa Division,-25.0,-1.0,55.0,-52.0,-6.0,6.0
+13,Ontario,Ottawa Division,-34.0,-12.0,-19.0,-66.0,-57.0,20.0
+14,Ontario,Ottawa Division,-31.0,-7.0,0.0,-63.0,-54.0,19.0
+15,Ontario,Ottawa Division,-36.0,-13.0,-25.0,-67.0,-54.0,21.0
+16,Ontario,Ottawa Division,-30.0,-4.0,0.0,-61.0,-53.0,19.0
+17,Ontario,Ottawa Division,-30.0,-8.0,76.0,-56.0,-48.0,17.0
+18,Ontario,Ottawa Division,-27.0,-1.0,38.0,-49.0,-8.0,7.0
+19,Ontario,Ottawa Division,-23.0,1.0,60.0,-51.0,-4.0,5.0
+20,Ontario,Ottawa Division,-35.0,-13.0,-31.0,-66.0,-56.0,20.0
+21,Ontario,Ottawa Division,-31.0,-5.0,-15.0,-63.0,-53.0,19.0
+22,Ontario,Ottawa Division,-31.0,-6.0,-9.0,-63.0,-52.0,19.0
+23,Ontario,Ottawa Division,-28.0,-2.0,-21.0,-63.0,-52.0,19.0
+24,Ontario,Ottawa Division,-32.0,-3.0,-2.0,-59.0,-48.0,19.0
+25,Ontario,Ottawa Division,-26.0,3.0,51.0,-47.0,-6.0,6.0
+26,Ontario,Ottawa Division,-29.0,-3.0,-21.0,-56.0,-9.0,6.0
+27,Ontario,Ottawa Division,-35.0,-12.0,-29.0,-67.0,-55.0,19.0
+28,Ontario,Ottawa Division,-36.0,-15.0,-36.0,-66.0,-53.0,20.0
+29,Ontario,Ottawa Division,-35.0,-12.0,-14.0,-67.0,-52.0,20.0
+30,Ontario,Ottawa Division,-29.0,-7.0,10.0,-62.0,-51.0,19.0
+31,Ontario,Ottawa Division,-33.0,-11.0,21.0,-59.0,-48.0,19.0
+32,Ontario,Ottawa Division,-20.0,-3.0,114.0,-47.0,-2.0,5.0
+33,Ontario,Ottawa Division,-15.0,1.0,143.0,-49.0,2.0,3.0
+34,Ontario,Ottawa Division,-27.0,-8.0,34.0,-64.0,-53.0,18.0
+35,Ontario,Ottawa Division,-25.0,-6.0,20.0,-60.0,-50.0,18.0
+36,Ontario,Ottawa Division,-26.0,-9.0,-2.0,-65.0,-56.0,20.0
+37,Ontario,Ottawa Division,-26.0,-3.0,-14.0,-62.0,-50.0,19.0
+38,Ontario,Ottawa Division,-30.0,-10.0,-12.0,-60.0,-48.0,20.0
+39,Ontario,Ottawa Division,-20.0,-1.0,37.0,-48.0,-4.0,6.0
+40,Ontario,Ottawa Division,-26.0,-8.0,-30.0,-56.0,-6.0,7.0
+41,Ontario,Ottawa Division,-31.0,-12.0,-24.0,-66.0,-54.0,19.0
+42,Ontario,Ottawa Division,-31.0,-12.0,-31.0,-65.0,-50.0,20.0
+43,Ontario,Ottawa Division,-32.0,-12.0,-30.0,-67.0,-51.0,20.0
+44,Ontario,Ottawa Division,-27.0,-6.0,-18.0,-64.0,-50.0,19.0
+45,Ontario,Ottawa Division,-29.0,-8.0,9.0,-61.0,-47.0,19.0
+46,Ontario,Ottawa Division,-19.0,1.0,24.0,-53.0,-3.0,7.0
+47,Ontario,Ottawa Division,-22.0,-1.0,-9.0,-57.0,-4.0,7.0
+48,Ontario,Ottawa Division,-33.0,-18.0,-26.0,-66.0,-54.0,20.0
+49,Ontario,Ottawa Division,-29.0,-10.0,-33.0,-66.0,-50.0,19.0
+50,Ontario,Ottawa Division,-39.0,-22.0,-36.0,-68.0,-52.0,21.0
+51,Ontario,Ottawa Division,-25.0,-5.0,-37.0,-65.0,-50.0,20.0
+52,Ontario,Ottawa Division,-25.0,-5.0,-21.0,-59.0,-46.0,19.0
+53,Ontario,Ottawa Division,-16.0,4.0,7.0,-48.0,-1.0,7.0
+54,Ontario,Ottawa Division,-14.0,6.0,40.0,-51.0,1.0,5.0
+55,Ontario,Ottawa Division,-28.0,-11.0,-38.0,-67.0,-53.0,19.0
+56,Ontario,Ottawa Division,-28.0,-4.0,-39.0,-66.0,-50.0,19.0
+57,Ontario,Ottawa Division,-31.0,-8.0,-31.0,-68.0,-50.0,20.0
+58,Ontario,Ottawa Division,-26.0,-2.0,-29.0,-64.0,-49.0,19.0
+59,Ontario,Ottawa Division,-32.0,-9.0,-28.0,-63.0,-46.0,20.0
+60,Ontario,Ottawa Division,-20.0,2.0,-6.0,-53.0,-3.0,7.0
+61,Ontario,Ottawa Division,-19.0,3.0,10.0,-57.0,0.0,6.0
+62,Ontario,Ottawa Division,-28.0,-7.0,-21.0,-67.0,-53.0,19.0
+63,Ontario,Ottawa Division,-29.0,-8.0,-31.0,-67.0,-49.0,19.0
+64,Ontario,Ottawa Division,-34.0,-11.0,-28.0,-68.0,-50.0,20.0
+65,Ontario,Ottawa Division,-25.0,0.0,-29.0,-64.0,-49.0,19.0
+66,Ontario,Ottawa Division,-27.0,-1.0,-14.0,-62.0,-45.0,19.0
+67,Ontario,Ottawa Division,-27.0,-3.0,-25.0,-55.0,-6.0,9.0
+68,Ontario,Ottawa Division,-20.0,2.0,-9.0,-58.0,-1.0,6.0
+69,Ontario,Ottawa Division,-27.0,-4.0,-26.0,-68.0,-53.0,19.0
+70,Ontario,Ottawa Division,-28.0,-6.0,-43.0,-67.0,-50.0,19.0
+71,Ontario,Ottawa Division,-30.0,-8.0,-45.0,-69.0,-50.0,20.0
+72,Ontario,Ottawa Division,-22.0,4.0,-36.0,-65.0,-49.0,19.0
+73,Ontario,Ottawa Division,-28.0,-3.0,-24.0,-62.0,-45.0,19.0
+74,Ontario,Ottawa Division,-20.0,5.0,-2.0,-50.0,-2.0,7.0
+75,Ontario,Ottawa Division,-21.0,2.0,5.0,-55.0,2.0,6.0
+76,Ontario,Ottawa Division,-8.0,25.0,-14.0,-65.0,-59.0,18.0
+77,Ontario,Ottawa Division,-9.0,30.0,-33.0,-65.0,-57.0,18.0
+78,Ontario,Ottawa Division,-9.0,40.0,-31.0,-66.0,-57.0,18.0
+79,Ontario,Ottawa Division,-26.0,28.0,-47.0,-70.0,-67.0,20.0
+80,Ontario,Ottawa Division,-88.0,-83.0,-49.0,-87.0,-85.0,28.0
+81,Ontario,Ottawa Division,-68.0,-50.0,-23.0,-74.0,-37.0,13.0
+82,Ontario,Ottawa Division,-53.0,-26.0,15.0,-69.0,-19.0,9.0
+83,Ontario,Ottawa Division,-53.0,-23.0,-28.0,-81.0,-78.0,27.0
+84,Ontario,Ottawa Division,-47.0,-10.0,-30.0,-77.0,-69.0,25.0
+85,Ontario,Ottawa Division,-46.0,-3.0,-26.0,-77.0,-69.0,26.0
+86,Ontario,Ottawa Division,-38.0,14.0,-16.0,-76.0,-71.0,25.0
+87,Ontario,Ottawa Division,-83.0,-77.0,-7.0,-86.0,-86.0,33.0
+88,Ontario,Ottawa Division,-54.0,-23.0,49.0,-65.0,-26.0,13.0
+89,Ontario,Ottawa Division,-48.0,-15.0,29.0,-65.0,-16.0,10.0
+90,Ontario,Ottawa Division,-47.0,-15.0,-24.0,-75.0,-62.0,23.0
+91,Ontario,Ottawa Division,-49.0,-17.0,-33.0,-73.0,-61.0,24.0
+92,Ontario,Ottawa Division,-50.0,-18.0,-33.0,-75.0,-60.0,24.0
+93,Ontario,Ottawa Division,-49.0,-15.0,-36.0,-74.0,-60.0,25.0
+94,Ontario,Ottawa Division,-52.0,-20.0,-27.0,-73.0,-57.0,25.0
+95,Ontario,Ottawa Division,-50.0,-13.0,25.0,-67.0,-20.0,12.0
+96,Ontario,Ottawa Division,-48.0,-14.0,25.0,-68.0,-17.0,9.0
+97,Ontario,Ottawa Division,-51.0,-20.0,-26.0,-76.0,-62.0,24.0
+98,Ontario,Ottawa Division,-50.0,-16.0,-33.0,-75.0,-60.0,24.0
+99,Ontario,Ottawa Division,-50.0,-16.0,-43.0,-75.0,-61.0,24.0
+100,Ontario,Ottawa Division,-57.0,-26.0,-46.0,-77.0,-64.0,26.0
+101,Ontario,Ottawa Division,-56.0,-20.0,-36.0,-76.0,-61.0,27.0
+102,Ontario,Ottawa Division,-66.0,-41.0,-6.0,-72.0,-33.0,15.0
+103,Ontario,Ottawa Division,-53.0,-21.0,12.0,-71.0,-25.0,11.0
+104,Ontario,Ottawa Division,-55.0,-27.0,-35.0,-78.0,-65.0,25.0
+105,Ontario,Ottawa Division,-56.0,-27.0,-44.0,-77.0,-64.0,25.0
+106,Ontario,Ottawa Division,-56.0,-26.0,-44.0,-78.0,-63.0,26.0
+107,Ontario,Ottawa Division,-57.0,-30.0,-44.0,-76.0,-64.0,26.0
+108,Ontario,Ottawa Division,-54.0,-21.0,-28.0,-75.0,-60.0,27.0
+109,Ontario,Ottawa Division,-54.0,-19.0,-18.0,-72.0,-27.0,13.0
+110,Ontario,Ottawa Division,-53.0,-21.0,-14.0,-74.0,-25.0,11.0
+111,Ontario,Ottawa Division,-55.0,-28.0,-37.0,-77.0,-65.0,25.0
+112,Ontario,Ottawa Division,-56.0,-27.0,-41.0,-77.0,-63.0,25.0
+113,Ontario,Ottawa Division,-55.0,-25.0,-32.0,-76.0,-63.0,25.0
+114,Ontario,Ottawa Division,-53.0,-22.0,-47.0,-76.0,-63.0,26.0
+115,Ontario,Ottawa Division,-55.0,-23.0,-43.0,-76.0,-60.0,27.0
+116,Ontario,Ottawa Division,-51.0,-15.0,3.0,-71.0,-25.0,13.0
+117,Ontario,Ottawa Division,-49.0,-15.0,18.0,-72.0,-22.0,10.0
+118,Ontario,Ottawa Division,-51.0,-20.0,-24.0,-76.0,-60.0,23.0
+119,Ontario,Ottawa Division,-53.0,-22.0,-33.0,-75.0,-59.0,23.0
+120,Ontario,Ottawa Division,-52.0,-20.0,-22.0,-76.0,-58.0,23.0
+121,Ontario,Ottawa Division,-48.0,-15.0,-10.0,-74.0,-58.0,23.0
+122,Ontario,Ottawa Division,-55.0,-25.0,-26.0,-75.0,-55.0,25.0
+123,Ontario,Ottawa Division,-49.0,-13.0,38.0,-71.0,-23.0,12.0
+124,Ontario,Regional Municipality of Durham,-13.0,4.0,23.0,-54.0,-39.0,12.0
+125,Ontario,Regional Municipality of Durham,-14.0,3.0,-5.0,-58.0,-36.0,13.0
+126,Ontario,Regional Municipality of Durham,-11.0,13.0,20.0,-54.0,-36.0,12.0
+127,Ontario,Regional Municipality of Durham,-13.0,11.0,33.0,-47.0,-35.0,11.0
+128,Ontario,Regional Municipality of Durham,-16.0,9.0,94.0,-28.0,-3.0,4.0
+129,Ontario,Regional Municipality of Durham,-14.0,5.0,74.0,-31.0,-6.0,3.0
+130,Ontario,Regional Municipality of Durham,-58.0,-52.0,61.0,-75.0,-81.0,23.0
+131,Ontario,Regional Municipality of Durham,-13.0,5.0,35.0,-53.0,-39.0,12.0
+132,Ontario,Regional Municipality of Durham,-13.0,1.0,32.0,-57.0,-35.0,13.0
+133,Ontario,Regional Municipality of Durham,-18.0,-2.0,-29.0,-58.0,-37.0,15.0
+134,Ontario,Regional Municipality of Durham,-15.0,0.0,17.0,-51.0,-33.0,12.0
+135,Ontario,Regional Municipality of Durham,-11.0,4.0,101.0,-26.0,0.0,5.0
+136,Ontario,Regional Municipality of Durham,-13.0,-3.0,31.0,-31.0,-6.0,5.0
+137,Ontario,Regional Municipality of Durham,-18.0,-4.0,-14.0,-59.0,-37.0,14.0
+138,Ontario,Regional Municipality of Durham,-12.0,2.0,16.0,-55.0,-38.0,13.0
+139,Ontario,Regional Municipality of Durham,-13.0,0.0,-2.0,-59.0,-35.0,14.0
+140,Ontario,Regional Municipality of Durham,-14.0,4.0,5.0,-56.0,-35.0,14.0
+141,Ontario,Regional Municipality of Durham,-14.0,-3.0,49.0,-51.0,-32.0,12.0
+142,Ontario,Regional Municipality of Durham,-11.0,4.0,53.0,-31.0,-1.0,5.0
+143,Ontario,Regional Municipality of Durham,-8.0,-1.0,31.0,-30.0,-4.0,5.0
+144,Ontario,Regional Municipality of Durham,-14.0,0.0,-1.0,-59.0,-37.0,13.0
+145,Ontario,Regional Municipality of Durham,-16.0,-2.0,-23.0,-58.0,-37.0,14.0
+146,Ontario,Regional Municipality of Durham,-9.0,4.0,11.0,-57.0,-33.0,13.0
+147,Ontario,Regional Municipality of Durham,-12.0,5.0,-9.0,-55.0,-34.0,13.0
+148,Ontario,Regional Municipality of Durham,-12.0,3.0,-11.0,-51.0,-32.0,13.0
+149,Ontario,Regional Municipality of Durham,-10.0,11.0,45.0,-27.0,0.0,5.0
+150,Ontario,Regional Municipality of Durham,-16.0,-5.0,-31.0,-34.0,-8.0,6.0
+151,Ontario,Regional Municipality of Durham,-16.0,-3.0,-19.0,-59.0,-36.0,14.0
+152,Ontario,Regional Municipality of Durham,-15.0,-1.0,-15.0,-56.0,-37.0,14.0
+153,Ontario,Regional Municipality of Durham,-14.0,-3.0,16.0,-56.0,-33.0,13.0
+154,Ontario,Regional Municipality of Durham,-14.0,1.0,18.0,-55.0,-34.0,13.0
+155,Ontario,Regional Municipality of Durham,-15.0,-4.0,19.0,-54.0,-31.0,13.0
+156,Ontario,Regional Municipality of Durham,-9.0,2.0,114.0,-30.0,0.0,5.0
+157,Ontario,Regional Municipality of Durham,-5.0,-1.0,104.0,-31.0,-3.0,4.0
+158,Ontario,Regional Municipality of Durham,-13.0,-1.0,35.0,-61.0,-34.0,13.0
+159,Ontario,Regional Municipality of Durham,-10.0,0.0,36.0,-57.0,-36.0,12.0
+160,Ontario,Regional Municipality of Durham,-8.0,2.0,17.0,-57.0,-36.0,14.0
+161,Ontario,Regional Municipality of Durham,-11.0,3.0,10.0,-58.0,-34.0,13.0
+162,Ontario,Regional Municipality of Durham,-14.0,-3.0,-14.0,-54.0,-35.0,14.0
+163,Ontario,Regional Municipality of Durham,-11.0,6.0,50.0,-30.0,-1.0,6.0
+164,Ontario,Regional Municipality of Durham,-18.0,-11.0,-38.0,-40.0,-10.0,7.0
+165,Ontario,Regional Municipality of Durham,-15.0,-4.0,-20.0,-62.0,-36.0,14.0
+166,Ontario,Regional Municipality of Durham,-15.0,-6.0,-20.0,-59.0,-37.0,14.0
+167,Ontario,Regional Municipality of Durham,-12.0,-1.0,-22.0,-61.0,-34.0,14.0
+168,Ontario,Regional Municipality of Durham,-12.0,3.0,-5.0,-59.0,-34.0,14.0
+169,Ontario,Regional Municipality of Durham,-12.0,1.0,12.0,-53.0,-33.0,14.0
+170,Ontario,Regional Municipality of Durham,-8.0,11.0,13.0,-31.0,-1.0,6.0
+171,Ontario,Regional Municipality of Durham,-21.0,-12.0,-38.0,-40.0,-9.0,8.0
+172,Ontario,Regional Municipality of Durham,-16.0,-2.0,-19.0,-61.0,-36.0,15.0
+173,Ontario,Regional Municipality of Durham,-14.0,0.0,-23.0,-60.0,-37.0,15.0
+174,Ontario,Regional Municipality of Durham,-14.0,-3.0,-31.0,-61.0,-35.0,15.0
+175,Ontario,Regional Municipality of Durham,-10.0,7.0,-15.0,-57.0,-36.0,15.0
+176,Ontario,Regional Municipality of Durham,-14.0,1.0,-15.0,-51.0,-35.0,15.0
+177,Ontario,Regional Municipality of Durham,-9.0,9.0,41.0,-28.0,-2.0,7.0
+178,Ontario,Regional Municipality of Durham,-7.0,2.0,34.0,-34.0,-6.0,6.0
+179,Ontario,Regional Municipality of Durham,-16.0,-4.0,-39.0,-63.0,-37.0,16.0
+180,Ontario,Regional Municipality of Durham,-18.0,-1.0,-36.0,-63.0,-39.0,16.0
+181,Ontario,Regional Municipality of Durham,-13.0,3.0,-20.0,-62.0,-34.0,15.0
+182,Ontario,Regional Municipality of Durham,-13.0,6.0,-14.0,-60.0,-35.0,15.0
+183,Ontario,Regional Municipality of Durham,-22.0,-5.0,-37.0,-59.0,-34.0,17.0
+184,Ontario,Regional Municipality of Durham,-12.0,9.0,6.0,-34.0,-5.0,8.0
+185,Ontario,Regional Municipality of Durham,-11.0,2.0,5.0,-40.0,-7.0,7.0
+186,Ontario,Regional Municipality of Durham,-14.0,0.0,-19.0,-63.0,-36.0,15.0
+187,Ontario,Regional Municipality of Durham,-14.0,2.0,-20.0,-60.0,-36.0,15.0
+188,Ontario,Regional Municipality of Durham,-19.0,-5.0,-33.0,-63.0,-36.0,16.0
+189,Ontario,Regional Municipality of Durham,-11.0,10.0,-17.0,-60.0,-35.0,15.0
+190,Ontario,Regional Municipality of Durham,-14.0,3.0,-9.0,-54.0,-33.0,15.0
+191,Ontario,Regional Municipality of Durham,-15.0,7.0,-15.0,-32.0,-5.0,9.0
+192,Ontario,Regional Municipality of Durham,-9.0,5.0,-2.0,-35.0,-8.0,7.0
+193,Ontario,Regional Municipality of Durham,-10.0,9.0,-19.0,-61.0,-37.0,15.0
+194,Ontario,Regional Municipality of Durham,-7.0,9.0,-24.0,-59.0,-37.0,15.0
+195,Ontario,Regional Municipality of Durham,-9.0,5.0,-37.0,-61.0,-35.0,16.0
+196,Ontario,Regional Municipality of Durham,-6.0,20.0,-20.0,-56.0,-35.0,15.0
+197,Ontario,Regional Municipality of Durham,-11.0,11.0,-17.0,-53.0,-34.0,15.0
+198,Ontario,Regional Municipality of Durham,-10.0,15.0,7.0,-26.0,-3.0,8.0
+199,Ontario,Regional Municipality of Durham,-6.0,9.0,-13.0,-31.0,-6.0,7.0
+200,Ontario,Regional Municipality of Durham,7.0,37.0,-4.0,-55.0,-44.0,15.0
+201,Ontario,Regional Municipality of Durham,11.0,44.0,-7.0,-53.0,-47.0,15.0
+202,Ontario,Regional Municipality of Durham,18.0,60.0,-5.0,-53.0,-46.0,15.0
+203,Ontario,Regional Municipality of Durham,-7.0,51.0,-29.0,-62.0,-63.0,20.0
+204,Ontario,Regional Municipality of Durham,-88.0,-79.0,-44.0,-88.0,-86.0,29.0
+205,Ontario,Regional Municipality of Durham,-63.0,-48.0,-13.0,-67.0,-43.0,14.0
+206,Ontario,Regional Municipality of Durham,-46.0,-29.0,-5.0,-60.0,-26.0,11.0
+207,Ontario,Regional Municipality of Durham,-39.0,-14.0,-21.0,-78.0,-73.0,27.0
+208,Ontario,Regional Municipality of Durham,-31.0,-3.0,-2.0,-73.0,-61.0,23.0
+209,Ontario,Regional Municipality of Durham,-30.0,5.0,-40.0,-74.0,-59.0,24.0
+210,Ontario,Regional Municipality of Durham,-23.0,26.0,0.0,-73.0,-64.0,23.0
+211,Ontario,Regional Municipality of Durham,-77.0,-73.0,-13.0,-88.0,-85.0,33.0
+212,Ontario,Regional Municipality of Durham,-46.0,-18.0,24.0,-62.0,-28.0,14.0
+213,Ontario,Regional Municipality of Durham,-45.0,-23.0,-18.0,-62.0,-23.0,12.0
+214,Ontario,Regional Municipality of Durham,-38.0,-12.0,-21.0,-73.0,-46.0,20.0
+215,Ontario,Regional Municipality of Durham,-39.0,-12.0,-31.0,-72.0,-47.0,20.0
+216,Ontario,Regional Municipality of Durham,-40.0,-15.0,-32.0,-73.0,-45.0,20.0
+217,Ontario,Regional Municipality of Durham,-40.0,-9.0,-17.0,-71.0,-45.0,20.0
+218,Ontario,Regional Municipality of Durham,-42.0,-16.0,-27.0,-70.0,-44.0,21.0
+219,Ontario,Regional Municipality of Durham,-40.0,-7.0,37.0,-60.0,-17.0,12.0
+220,Ontario,Regional Municipality of Durham,-42.0,-17.0,7.0,-62.0,-19.0,11.0
+221,Ontario,Regional Municipality of Durham,-42.0,-16.0,-26.0,-73.0,-45.0,20.0
+222,Ontario,Regional Municipality of Durham,-40.0,-11.0,-32.0,-72.0,-47.0,20.0
+223,Ontario,Regional Municipality of Durham,-38.0,-7.0,-30.0,-74.0,-45.0,19.0
+224,Ontario,Regional Municipality of Durham,-50.0,-20.0,-27.0,-77.0,-49.0,21.0
+225,Ontario,Regional Municipality of Durham,-50.0,-24.0,-37.0,-77.0,-48.0,23.0
+226,Ontario,Regional Municipality of Durham,-48.0,-16.0,36.0,-70.0,-23.0,14.0
+227,Ontario,Regional Municipality of Durham,-48.0,-22.0,0.0,-72.0,-23.0,12.0
+228,Ontario,Regional Municipality of Durham,-47.0,-23.0,-25.0,-77.0,-49.0,20.0
+229,Ontario,Regional Municipality of Durham,-46.0,-20.0,-31.0,-76.0,-50.0,21.0
+230,Ontario,Regional Municipality of Durham,-45.0,-22.0,-37.0,-76.0,-48.0,21.0
+231,Ontario,Regional Municipality of Durham,-44.0,-15.0,-28.0,-75.0,-48.0,21.0
+232,Ontario,Regional Municipality of Durham,-45.0,-19.0,-37.0,-74.0,-47.0,22.0
+233,Ontario,Regional Municipality of Durham,-45.0,-12.0,2.0,-67.0,-21.0,13.0
+234,Ontario,Regional Municipality of Durham,-46.0,-23.0,-4.0,-68.0,-23.0,11.0
+235,Ontario,Regional Municipality of Durham,-43.0,-19.0,-10.0,-76.0,-48.0,20.0
+236,Ontario,Regional Municipality of Durham,-54.0,-33.0,-47.0,-78.0,-51.0,22.0
+237,Ontario,Regional Municipality of Durham,-43.0,-17.0,-30.0,-77.0,-47.0,21.0
+238,Ontario,Regional Municipality of Durham,-45.0,-16.0,-40.0,-78.0,-48.0,21.0
+239,Ontario,Regional Municipality of Durham,-44.0,-19.0,-44.0,-77.0,-46.0,22.0
+240,Ontario,Regional Municipality of Durham,-41.0,-9.0,25.0,-70.0,-18.0,12.0
+241,Ontario,Regional Municipality of Durham,-43.0,-19.0,-7.0,-73.0,-21.0,11.0
+242,Ontario,Regional Municipality of Durham,-42.0,-18.0,-25.0,-78.0,-47.0,20.0
+243,Ontario,Regional Municipality of Durham,-42.0,-19.0,-32.0,-77.0,-48.0,20.0
+244,Ontario,Regional Municipality of Durham,-41.0,-17.0,-28.0,-76.0,-45.0,20.0
+245,Ontario,Regional Municipality of Durham,-39.0,-10.0,1.0,-74.0,-46.0,20.0
+246,Ontario,Regional Municipality of Durham,-47.0,-24.0,-49.0,-76.0,-46.0,22.0
+247,Ontario,Regional Municipality of Durham,-43.0,-9.0,-9.0,-67.0,-17.0,12.0
+248,Ontario,Regional Municipality of Halton,-21.0,4.0,116.0,-55.0,-43.0,15.0
+249,Ontario,Regional Municipality of Halton,-19.0,4.0,63.0,-57.0,-44.0,17.0
+250,Ontario,Regional Municipality of Halton,-18.0,9.0,86.0,-55.0,-42.0,16.0
+251,Ontario,Regional Municipality of Halton,-18.0,13.0,123.0,-50.0,-41.0,14.0
+252,Ontario,Regional Municipality of Halton,-21.0,12.0,215.0,-29.0,-4.0,5.0
+253,Ontario,Regional Municipality of Halton,-22.0,9.0,126.0,-24.0,-6.0,3.0
+254,Ontario,Regional Municipality of Halton,-59.0,-54.0,259.0,-78.0,-85.0,25.0
+255,Ontario,Regional Municipality of Halton,-21.0,8.0,133.0,-55.0,-43.0,15.0
+256,Ontario,Regional Municipality of Halton,-16.0,4.0,107.0,-55.0,-44.0,17.0
+257,Ontario,Regional Municipality of Halton,-22.0,-2.0,-1.0,-58.0,-43.0,19.0
+258,Ontario,Regional Municipality of Halton,-18.0,3.0,97.0,-51.0,-40.0,16.0
+259,Ontario,Regional Municipality of Halton,-13.0,10.0,246.0,-23.0,-2.0,6.0
+260,Ontario,Regional Municipality of Halton,-18.0,0.0,82.0,-28.0,-8.0,6.0
+261,Ontario,Regional Municipality of Halton,-24.0,-1.0,12.0,-59.0,-43.0,18.0
+262,Ontario,Regional Municipality of Halton,-21.0,2.0,86.0,-55.0,-42.0,16.0
+263,Ontario,Regional Municipality of Halton,-19.0,0.0,53.0,-56.0,-44.0,18.0
+264,Ontario,Regional Municipality of Halton,-19.0,1.0,39.0,-55.0,-42.0,18.0
+265,Ontario,Regional Municipality of Halton,-18.0,-1.0,153.0,-50.0,-40.0,15.0
+266,Ontario,Regional Municipality of Halton,-14.0,7.0,139.0,-26.0,-2.0,7.0
+267,Ontario,Regional Municipality of Halton,-15.0,1.0,65.0,-25.0,-6.0,6.0
+268,Ontario,Regional Municipality of Halton,-22.0,2.0,42.0,-55.0,-42.0,17.0
+269,Ontario,Regional Municipality of Halton,-22.0,1.0,27.0,-56.0,-42.0,17.0
+270,Ontario,Regional Municipality of Halton,-15.0,4.0,74.0,-56.0,-43.0,17.0
+271,Ontario,Regional Municipality of Halton,-18.0,4.0,26.0,-56.0,-41.0,17.0
+272,Ontario,Regional Municipality of Halton,-18.0,4.0,16.0,-54.0,-40.0,16.0
+273,Ontario,Regional Municipality of Halton,-16.0,10.0,120.0,-24.0,-1.0,7.0
+274,Ontario,Regional Municipality of Halton,-21.0,-2.0,-13.0,-32.0,-10.0,7.0
+275,Ontario,Regional Municipality of Halton,-23.0,-1.0,18.0,-57.0,-42.0,17.0
+276,Ontario,Regional Municipality of Halton,-23.0,-4.0,32.0,-57.0,-42.0,17.0
+277,Ontario,Regional Municipality of Halton,-18.0,-6.0,91.0,-56.0,-42.0,17.0
+278,Ontario,Regional Municipality of Halton,-18.0,-1.0,74.0,-55.0,-40.0,17.0
+279,Ontario,Regional Municipality of Halton,-17.0,-2.0,108.0,-52.0,-38.0,16.0
+280,Ontario,Regional Municipality of Halton,-12.0,1.0,255.0,-26.0,-1.0,5.0
+281,Ontario,Regional Municipality of Halton,-11.0,1.0,209.0,-23.0,-4.0,4.0
+282,Ontario,Regional Municipality of Halton,-20.0,0.0,119.0,-56.0,-41.0,16.0
+283,Ontario,Regional Municipality of Halton,-18.0,2.0,145.0,-56.0,-41.0,16.0
+284,Ontario,Regional Municipality of Halton,-13.0,3.0,77.0,-57.0,-44.0,17.0
+285,Ontario,Regional Municipality of Halton,-18.0,3.0,56.0,-55.0,-41.0,17.0
+286,Ontario,Regional Municipality of Halton,-17.0,0.0,32.0,-52.0,-40.0,17.0
+287,Ontario,Regional Municipality of Halton,-16.0,8.0,117.0,-29.0,-2.0,8.0
+288,Ontario,Regional Municipality of Halton,-25.0,-10.0,-41.0,-38.0,-13.0,8.0
+289,Ontario,Regional Municipality of Halton,-26.0,-2.0,6.0,-60.0,-43.0,18.0
+290,Ontario,Regional Municipality of Halton,-26.0,-3.0,6.0,-59.0,-43.0,18.0
+291,Ontario,Regional Municipality of Halton,-22.0,-2.0,7.0,-58.0,-44.0,19.0
+292,Ontario,Regional Municipality of Halton,-21.0,2.0,38.0,-57.0,-41.0,18.0
+293,Ontario,Regional Municipality of Halton,-19.0,3.0,80.0,-50.0,-40.0,17.0
+294,Ontario,Regional Municipality of Halton,-18.0,10.0,62.0,-28.0,-4.0,8.0
+295,Ontario,Regional Municipality of Halton,-35.0,-14.0,-43.0,-37.0,-16.0,10.0
+296,Ontario,Regional Municipality of Halton,-23.0,2.0,-2.0,-58.0,-44.0,19.0
+297,Ontario,Regional Municipality of Halton,-21.0,2.0,3.0,-57.0,-43.0,18.0
+298,Ontario,Regional Municipality of Halton,-19.0,0.0,-11.0,-56.0,-44.0,20.0
+299,Ontario,Regional Municipality of Halton,-13.0,6.0,19.0,-53.0,-42.0,18.0
+300,Ontario,Regional Municipality of Halton,-14.0,6.0,24.0,-49.0,-45.0,18.0
+301,Ontario,Regional Municipality of Halton,-12.0,14.0,116.0,-19.0,-5.0,9.0
+302,Ontario,Regional Municipality of Halton,-12.0,6.0,97.0,-20.0,-10.0,7.0
+303,Ontario,Regional Municipality of Halton,-22.0,0.0,-32.0,-59.0,-45.0,19.0
+304,Ontario,Regional Municipality of Halton,-31.0,-8.0,-1.0,-59.0,-46.0,20.0
+305,Ontario,Regional Municipality of Halton,-18.0,3.0,8.0,-54.0,-44.0,19.0
+306,Ontario,Regional Municipality of Halton,-16.0,6.0,17.0,-54.0,-41.0,19.0
+307,Ontario,Regional Municipality of Halton,-20.0,2.0,1.0,-48.0,-40.0,19.0
+308,Ontario,Regional Municipality of Halton,-14.0,13.0,70.0,-15.0,-5.0,9.0
+309,Ontario,Regional Municipality of Halton,-15.0,6.0,41.0,-11.0,-12.0,8.0
+310,Ontario,Regional Municipality of Halton,-20.0,4.0,16.0,-55.0,-43.0,18.0
+311,Ontario,Regional Municipality of Halton,-21.0,3.0,25.0,-56.0,-42.0,18.0
+312,Ontario,Regional Municipality of Halton,-18.0,2.0,1.0,-54.0,-43.0,19.0
+313,Ontario,Regional Municipality of Halton,-15.0,8.0,39.0,-53.0,-42.0,18.0
+314,Ontario,Regional Municipality of Halton,-15.0,9.0,60.0,-47.0,-41.0,18.0
+315,Ontario,Regional Municipality of Halton,-19.0,8.0,0.0,-21.0,-8.0,11.0
+316,Ontario,Regional Municipality of Halton,-12.0,10.0,40.0,-16.0,-11.0,8.0
+317,Ontario,Regional Municipality of Halton,-17.0,9.0,15.0,-54.0,-44.0,18.0
+318,Ontario,Regional Municipality of Halton,-16.0,12.0,14.0,-53.0,-43.0,18.0
+319,Ontario,Regional Municipality of Halton,-15.0,6.0,-9.0,-56.0,-45.0,20.0
+320,Ontario,Regional Municipality of Halton,-11.0,13.0,5.0,-51.0,-43.0,19.0
+321,Ontario,Regional Municipality of Halton,-12.0,13.0,26.0,-47.0,-41.0,18.0
+322,Ontario,Regional Municipality of Halton,-12.0,20.0,49.0,-15.0,-7.0,10.0
+323,Ontario,Regional Municipality of Halton,-8.0,16.0,32.0,-8.0,-11.0,8.0
+324,Ontario,Regional Municipality of Halton,3.0,40.0,51.0,-50.0,-52.0,18.0
+325,Ontario,Regional Municipality of Halton,5.0,46.0,45.0,-50.0,-52.0,18.0
+326,Ontario,Regional Municipality of Halton,15.0,63.0,71.0,-47.0,-54.0,18.0
+327,Ontario,Regional Municipality of Halton,-14.0,46.0,3.0,-57.0,-68.0,24.0
+328,Ontario,Regional Municipality of Halton,-87.0,-79.0,25.0,-85.0,-89.0,32.0
+329,Ontario,Regional Municipality of Halton,-69.0,-48.0,52.0,-64.0,-47.0,16.0
+330,Ontario,Regional Municipality of Halton,-54.0,-21.0,63.0,-53.0,-29.0,11.0
+331,Ontario,Regional Municipality of Halton,-49.0,-8.0,43.0,-77.0,-77.0,29.0
+332,Ontario,Regional Municipality of Halton,-42.0,2.0,94.0,-71.0,-66.0,25.0
+333,Ontario,Regional Municipality of Halton,-40.0,8.0,-11.0,-72.0,-67.0,27.0
+334,Ontario,Regional Municipality of Halton,-35.0,26.0,86.0,-73.0,-70.0,26.0
+335,Ontario,Regional Municipality of Halton,-82.0,-76.0,56.0,-87.0,-89.0,35.0
+336,Ontario,Regional Municipality of Halton,-57.0,-16.0,77.0,-61.0,-31.0,15.0
+337,Ontario,Regional Municipality of Halton,-56.0,-20.0,28.0,-59.0,-27.0,12.0
+338,Ontario,Regional Municipality of Halton,-49.0,-8.0,14.0,-70.0,-53.0,23.0
+339,Ontario,Regional Municipality of Halton,-49.0,-9.0,7.0,-70.0,-53.0,23.0
+340,Ontario,Regional Municipality of Halton,-48.0,-12.0,15.0,-72.0,-54.0,24.0
+341,Ontario,Regional Municipality of Halton,-49.0,-10.0,31.0,-70.0,-53.0,24.0
+342,Ontario,Regional Municipality of Halton,-49.0,-13.0,10.0,-70.0,-51.0,24.0
+343,Ontario,Regional Municipality of Halton,-50.0,-6.0,135.0,-56.0,-18.0,13.0
+344,Ontario,Regional Municipality of Halton,-53.0,-12.0,56.0,-56.0,-24.0,11.0
+345,Ontario,Regional Municipality of Halton,-52.0,-14.0,3.0,-70.0,-52.0,23.0
+346,Ontario,Regional Municipality of Halton,-51.0,-12.0,-5.0,-71.0,-53.0,23.0
+347,Ontario,Regional Municipality of Halton,-48.0,-8.0,3.0,-71.0,-54.0,23.0
+348,Ontario,Regional Municipality of Halton,-58.0,-23.0,2.0,-74.0,-56.0,25.0
+349,Ontario,Regional Municipality of Halton,-57.0,-23.0,-20.0,-75.0,-55.0,26.0
+350,Ontario,Regional Municipality of Halton,-57.0,-13.0,111.0,-64.0,-24.0,15.0
+351,Ontario,Regional Municipality of Halton,-59.0,-23.0,37.0,-67.0,-29.0,12.0
+352,Ontario,Regional Municipality of Halton,-56.0,-21.0,6.0,-74.0,-56.0,24.0
+353,Ontario,Regional Municipality of Halton,-57.0,-20.0,1.0,-75.0,-57.0,24.0
+354,Ontario,Regional Municipality of Halton,-55.0,-22.0,-11.0,-74.0,-57.0,26.0
+355,Ontario,Regional Municipality of Halton,-53.0,-15.0,8.0,-72.0,-56.0,25.0
+356,Ontario,Regional Municipality of Halton,-54.0,-18.0,-12.0,-72.0,-54.0,25.0
+357,Ontario,Regional Municipality of Halton,-54.0,-9.0,70.0,-63.0,-22.0,14.0
+358,Ontario,Regional Municipality of Halton,-57.0,-18.0,42.0,-63.0,-26.0,12.0
+359,Ontario,Regional Municipality of Halton,-54.0,-15.0,32.0,-74.0,-55.0,23.0
+360,Ontario,Regional Municipality of Halton,-65.0,-38.0,-14.0,-76.0,-59.0,26.0
+361,Ontario,Regional Municipality of Halton,-51.0,-15.0,16.0,-73.0,-56.0,25.0
+362,Ontario,Regional Municipality of Halton,-52.0,-15.0,-8.0,-73.0,-55.0,25.0
+363,Ontario,Regional Municipality of Halton,-53.0,-17.0,-9.0,-72.0,-53.0,25.0
+364,Ontario,Regional Municipality of Halton,-51.0,-6.0,108.0,-62.0,-19.0,14.0
+365,Ontario,Regional Municipality of Halton,-56.0,-17.0,15.0,-65.0,-24.0,12.0
+366,Ontario,Regional Municipality of Halton,-54.0,-16.0,-6.0,-76.0,-55.0,24.0
+367,Ontario,Regional Municipality of Halton,-53.0,-17.0,10.0,-74.0,-55.0,24.0
+368,Ontario,Regional Municipality of Halton,-51.0,-17.0,36.0,-75.0,-55.0,24.0
+369,Ontario,Regional Municipality of Halton,-50.0,-13.0,48.0,-73.0,-54.0,24.0
+370,Ontario,Regional Municipality of Halton,-54.0,-21.0,-20.0,-72.0,-54.0,25.0
+371,Ontario,Regional Municipality of Halton,-53.0,-7.0,37.0,-66.0,-17.0,14.0
+372,Ontario,Regional Municipality of Peel,-21.0,-2.0,39.0,-58.0,-39.0,14.0
+373,Ontario,Regional Municipality of Peel,-22.0,-5.0,14.0,-61.0,-40.0,15.0
+374,Ontario,Regional Municipality of Peel,-19.0,2.0,24.0,-57.0,-39.0,14.0
+375,Ontario,Regional Municipality of Peel,-18.0,3.0,46.0,-55.0,-39.0,13.0
+376,Ontario,Regional Municipality of Peel,-24.0,-1.0,70.0,-53.0,-5.0,5.0
+377,Ontario,Regional Municipality of Peel,-22.0,0.0,51.0,-60.0,-11.0,3.0
+378,Ontario,Regional Municipality of Peel,-57.0,-47.0,65.0,-74.0,-82.0,27.0
+379,Ontario,Regional Municipality of Peel,-24.0,1.0,46.0,-57.0,-40.0,14.0
+380,Ontario,Regional Municipality of Peel,-25.0,-5.0,35.0,-59.0,-40.0,15.0
+381,Ontario,Regional Municipality of Peel,-27.0,-8.0,-20.0,-60.0,-40.0,16.0
+382,Ontario,Regional Municipality of Peel,-24.0,-6.0,28.0,-57.0,-38.0,15.0
+383,Ontario,Regional Municipality of Peel,-23.0,-4.0,75.0,-53.0,-2.0,6.0
+384,Ontario,Regional Municipality of Peel,-26.0,-9.0,27.0,-59.0,-9.0,6.0
+385,Ontario,Regional Municipality of Peel,-28.0,-12.0,-12.0,-61.0,-42.0,16.0
+386,Ontario,Regional Municipality of Peel,-25.0,-3.0,15.0,-59.0,-39.0,15.0
+387,Ontario,Regional Municipality of Peel,-26.0,-6.0,11.0,-61.0,-40.0,16.0
+388,Ontario,Regional Municipality of Peel,-25.0,-3.0,4.0,-58.0,-39.0,16.0
+389,Ontario,Regional Municipality of Peel,-26.0,-9.0,60.0,-56.0,-38.0,15.0
+390,Ontario,Regional Municipality of Peel,-24.0,-4.0,30.0,-54.0,-3.0,7.0
+391,Ontario,Regional Municipality of Peel,-24.0,-8.0,20.0,-58.0,-9.0,5.0
+392,Ontario,Regional Municipality of Peel,-27.0,-10.0,2.0,-60.0,-41.0,16.0
+393,Ontario,Regional Municipality of Peel,-29.0,-9.0,-16.0,-60.0,-39.0,15.0
+394,Ontario,Regional Municipality of Peel,-24.0,-4.0,21.0,-58.0,-39.0,15.0
+395,Ontario,Regional Municipality of Peel,-24.0,-3.0,-10.0,-59.0,-39.0,15.0
+396,Ontario,Regional Municipality of Peel,-25.0,-7.0,-11.0,-57.0,-38.0,15.0
+397,Ontario,Regional Municipality of Peel,-22.0,-2.0,23.0,-52.0,-2.0,6.0
+398,Ontario,Regional Municipality of Peel,-27.0,-9.0,-26.0,-59.0,-11.0,6.0
+399,Ontario,Regional Municipality of Peel,-28.0,-11.0,-21.0,-60.0,-41.0,16.0
+400,Ontario,Regional Municipality of Peel,-27.0,-6.0,-13.0,-60.0,-39.0,16.0
+401,Ontario,Regional Municipality of Peel,-26.0,-8.0,31.0,-59.0,-39.0,15.0
+402,Ontario,Regional Municipality of Peel,-25.0,-6.0,18.0,-58.0,-38.0,15.0
+403,Ontario,Regional Municipality of Peel,-25.0,-9.0,39.0,-57.0,-38.0,15.0
+404,Ontario,Regional Municipality of Peel,-20.0,-5.0,86.0,-51.0,-1.0,5.0
+405,Ontario,Regional Municipality of Peel,-19.0,-8.0,97.0,-56.0,-6.0,4.0
+406,Ontario,Regional Municipality of Peel,-26.0,-11.0,33.0,-60.0,-40.0,15.0
+407,Ontario,Regional Municipality of Peel,-24.0,-4.0,46.0,-58.0,-38.0,15.0
+408,Ontario,Regional Municipality of Peel,-23.0,-3.0,16.0,-61.0,-41.0,16.0
+409,Ontario,Regional Municipality of Peel,-23.0,-1.0,8.0,-60.0,-39.0,16.0
+410,Ontario,Regional Municipality of Peel,-23.0,-5.0,-9.0,-60.0,-40.0,17.0
+411,Ontario,Regional Municipality of Peel,-23.0,-1.0,22.0,-54.0,-7.0,8.0
+412,Ontario,Regional Municipality of Peel,-34.0,-21.0,-40.0,-65.0,-14.0,8.0
+413,Ontario,Regional Municipality of Peel,-29.0,-13.0,-20.0,-63.0,-43.0,17.0
+414,Ontario,Regional Municipality of Peel,-30.0,-11.0,-25.0,-62.0,-40.0,17.0
+415,Ontario,Regional Municipality of Peel,-28.0,-11.0,-22.0,-64.0,-40.0,17.0
+416,Ontario,Regional Municipality of Peel,-24.0,-5.0,-8.0,-61.0,-40.0,16.0
+417,Ontario,Regional Municipality of Peel,-23.0,-5.0,22.0,-59.0,-39.0,16.0
+418,Ontario,Regional Municipality of Peel,-20.0,0.0,0.0,-55.0,-2.0,7.0
+419,Ontario,Regional Municipality of Peel,-35.0,-26.0,-39.0,-64.0,-13.0,8.0
+420,Ontario,Regional Municipality of Peel,-40.0,-21.0,-29.0,-66.0,-44.0,19.0
+421,Ontario,Regional Municipality of Peel,-38.0,-15.0,-28.0,-65.0,-42.0,18.0
+422,Ontario,Regional Municipality of Peel,-37.0,-18.0,-32.0,-66.0,-42.0,18.0
+423,Ontario,Regional Municipality of Peel,-32.0,-8.0,-13.0,-64.0,-42.0,17.0
+424,Ontario,Regional Municipality of Peel,-33.0,-14.0,-12.0,-62.0,-41.0,18.0
+425,Ontario,Regional Municipality of Peel,-35.0,-13.0,13.0,-58.0,-8.0,9.0
+426,Ontario,Regional Municipality of Peel,-36.0,-17.0,28.0,-63.0,-15.0,7.0
+427,Ontario,Regional Municipality of Peel,-36.0,-19.0,-42.0,-66.0,-44.0,18.0
+428,Ontario,Regional Municipality of Peel,-43.0,-24.0,-37.0,-65.0,-45.0,20.0
+429,Ontario,Regional Municipality of Peel,-34.0,-11.0,-20.0,-64.0,-42.0,18.0
+430,Ontario,Regional Municipality of Peel,-33.0,-7.0,-21.0,-63.0,-41.0,18.0
+431,Ontario,Regional Municipality of Peel,-36.0,-17.0,-28.0,-63.0,-41.0,19.0
+432,Ontario,Regional Municipality of Peel,-35.0,-12.0,-15.0,-58.0,-8.0,10.0
+433,Ontario,Regional Municipality of Peel,-38.0,-17.0,-5.0,-64.0,-16.0,8.0
+434,Ontario,Regional Municipality of Peel,-36.0,-17.0,-24.0,-65.0,-44.0,18.0
+435,Ontario,Regional Municipality of Peel,-35.0,-12.0,-22.0,-64.0,-41.0,17.0
+436,Ontario,Regional Municipality of Peel,-37.0,-14.0,-29.0,-65.0,-42.0,18.0
+437,Ontario,Regional Municipality of Peel,-34.0,-8.0,-15.0,-64.0,-41.0,17.0
+438,Ontario,Regional Municipality of Peel,-34.0,-13.0,-3.0,-63.0,-41.0,18.0
+439,Ontario,Regional Municipality of Peel,-39.0,-16.0,-33.0,-61.0,-9.0,11.0
+440,Ontario,Regional Municipality of Peel,-37.0,-14.0,-11.0,-64.0,-16.0,8.0
+441,Ontario,Regional Municipality of Peel,-36.0,-15.0,-28.0,-66.0,-44.0,18.0
+442,Ontario,Regional Municipality of Peel,-34.0,-8.0,-26.0,-64.0,-42.0,17.0
+443,Ontario,Regional Municipality of Peel,-36.0,-14.0,-38.0,-67.0,-43.0,19.0
+444,Ontario,Regional Municipality of Peel,-32.0,-4.0,-29.0,-63.0,-42.0,18.0
+445,Ontario,Regional Municipality of Peel,-32.0,-9.0,-15.0,-62.0,-41.0,18.0
+446,Ontario,Regional Municipality of Peel,-36.0,-10.0,-19.0,-56.0,-10.0,10.0
+447,Ontario,Regional Municipality of Peel,-35.0,-12.0,-10.0,-61.0,-15.0,7.0
+448,Ontario,Regional Municipality of Peel,-25.0,3.0,-9.0,-64.0,-49.0,18.0
+449,Ontario,Regional Municipality of Peel,-22.0,16.0,-15.0,-63.0,-48.0,17.0
+450,Ontario,Regional Municipality of Peel,-15.0,31.0,0.0,-63.0,-49.0,17.0
+451,Ontario,Regional Municipality of Peel,-22.0,35.0,-18.0,-68.0,-64.0,23.0
+452,Ontario,Regional Municipality of Peel,-80.0,-73.0,-19.0,-84.0,-88.0,35.0
+453,Ontario,Regional Municipality of Peel,-59.0,-44.0,-18.0,-69.0,-44.0,16.0
+454,Ontario,Regional Municipality of Peel,-47.0,-28.0,3.0,-66.0,-26.0,10.0
+455,Ontario,Regional Municipality of Peel,-40.0,-12.0,-18.0,-74.0,-73.0,28.0
+456,Ontario,Regional Municipality of Peel,-34.0,-1.0,-4.0,-68.0,-58.0,23.0
+457,Ontario,Regional Municipality of Peel,-32.0,3.0,-33.0,-70.0,-59.0,24.0
+458,Ontario,Regional Municipality of Peel,-22.0,26.0,5.0,-70.0,-65.0,24.0
+459,Ontario,Regional Municipality of Peel,-74.0,-69.0,-21.0,-83.0,-87.0,36.0
+460,Ontario,Regional Municipality of Peel,-48.0,-22.0,1.0,-62.0,-30.0,15.0
+461,Ontario,Regional Municipality of Peel,-49.0,-28.0,-13.0,-64.0,-24.0,11.0
+462,Ontario,Regional Municipality of Peel,-42.0,-17.0,-22.0,-66.0,-49.0,21.0
+463,Ontario,Regional Municipality of Peel,-42.0,-15.0,-27.0,-66.0,-47.0,21.0
+464,Ontario,Regional Municipality of Peel,-43.0,-17.0,-24.0,-68.0,-47.0,21.0
+465,Ontario,Regional Municipality of Peel,-42.0,-12.0,-18.0,-68.0,-47.0,21.0
+466,Ontario,Regional Municipality of Peel,-43.0,-20.0,-25.0,-68.0,-46.0,22.0
+467,Ontario,Regional Municipality of Peel,-42.0,-14.0,17.0,-63.0,-15.0,12.0
+468,Ontario,Regional Municipality of Peel,-45.0,-20.0,0.0,-66.0,-21.0,10.0
+469,Ontario,Regional Municipality of Peel,-45.0,-21.0,-28.0,-70.0,-48.0,21.0
+470,Ontario,Regional Municipality of Peel,-44.0,-15.0,-33.0,-69.0,-47.0,20.0
+471,Ontario,Regional Municipality of Peel,-42.0,-10.0,-26.0,-71.0,-48.0,20.0
+472,Ontario,Regional Municipality of Peel,-52.0,-26.0,-33.0,-71.0,-51.0,22.0
+473,Ontario,Regional Municipality of Peel,-52.0,-31.0,-38.0,-72.0,-50.0,24.0
+474,Ontario,Regional Municipality of Peel,-50.0,-23.0,8.0,-67.0,-21.0,14.0
+475,Ontario,Regional Municipality of Peel,-52.0,-29.0,-13.0,-71.0,-26.0,11.0
+476,Ontario,Regional Municipality of Peel,-49.0,-28.0,-26.0,-72.0,-52.0,22.0
+477,Ontario,Regional Municipality of Peel,-50.0,-25.0,-37.0,-72.0,-50.0,21.0
+478,Ontario,Regional Municipality of Peel,-49.0,-26.0,-39.0,-73.0,-50.0,22.0
+479,Ontario,Regional Municipality of Peel,-46.0,-20.0,-28.0,-71.0,-50.0,22.0
+480,Ontario,Regional Municipality of Peel,-47.0,-24.0,-34.0,-71.0,-49.0,23.0
+481,Ontario,Regional Municipality of Peel,-46.0,-20.0,-15.0,-68.0,-19.0,13.0
+482,Ontario,Regional Municipality of Peel,-50.0,-26.0,-16.0,-72.0,-25.0,11.0
+483,Ontario,Regional Municipality of Peel,-47.0,-24.0,-17.0,-72.0,-51.0,21.0
+484,Ontario,Regional Municipality of Peel,-60.0,-44.0,-49.0,-73.0,-53.0,23.0
+485,Ontario,Regional Municipality of Peel,-46.0,-21.0,-27.0,-73.0,-50.0,22.0
+486,Ontario,Regional Municipality of Peel,-46.0,-21.0,-40.0,-72.0,-50.0,22.0
+487,Ontario,Regional Municipality of Peel,-46.0,-25.0,-38.0,-72.0,-48.0,23.0
+488,Ontario,Regional Municipality of Peel,-44.0,-16.0,7.0,-69.0,-17.0,13.0
+489,Ontario,Regional Municipality of Peel,-47.0,-24.0,-22.0,-73.0,-23.0,10.0
+490,Ontario,Regional Municipality of Peel,-47.0,-25.0,-35.0,-73.0,-50.0,21.0
+491,Ontario,Regional Municipality of Peel,-47.0,-22.0,-36.0,-72.0,-49.0,21.0
+492,Ontario,Regional Municipality of Peel,-45.0,-21.0,-19.0,-73.0,-49.0,21.0
+493,Ontario,Regional Municipality of Peel,-43.0,-16.0,-8.0,-72.0,-48.0,21.0
+494,Ontario,Regional Municipality of Peel,-48.0,-28.0,-43.0,-73.0,-49.0,23.0
+495,Ontario,Regional Municipality of Peel,-45.0,-19.0,-26.0,-71.0,-17.0,13.0
+496,Ontario,Regional Municipality of York,-21.0,5.0,115.0,-54.0,-45.0,17.0
+497,Ontario,Regional Municipality of York,-20.0,2.0,59.0,-57.0,-45.0,18.0
+498,Ontario,Regional Municipality of York,-19.0,9.0,85.0,-54.0,-43.0,17.0
+499,Ontario,Regional Municipality of York,-19.0,13.0,122.0,-50.0,-42.0,15.0
+500,Ontario,Regional Municipality of York,-23.0,9.0,213.0,-33.0,-5.0,6.0
+501,Ontario,Regional Municipality of York,-23.0,6.0,204.0,-40.0,-7.0,4.0
+502,Ontario,Regional Municipality of York,-45.0,-35.0,201.0,-73.0,-83.0,26.0
+503,Ontario,Regional Municipality of York,-21.0,8.0,140.0,-55.0,-45.0,17.0
+504,Ontario,Regional Municipality of York,-18.0,5.0,128.0,-55.0,-44.0,18.0
+505,Ontario,Regional Municipality of York,-23.0,-1.0,13.0,-59.0,-44.0,19.0
+506,Ontario,Regional Municipality of York,-19.0,4.0,97.0,-52.0,-40.0,17.0
+507,Ontario,Regional Municipality of York,-17.0,8.0,253.0,-33.0,-1.0,6.0
+508,Ontario,Regional Municipality of York,-20.0,-1.0,104.0,-47.0,-5.0,7.0
+509,Ontario,Regional Municipality of York,-27.0,-4.0,47.0,-58.0,-45.0,18.0
+510,Ontario,Regional Municipality of York,-26.0,3.0,91.0,-57.0,-45.0,18.0
+511,Ontario,Regional Municipality of York,-26.0,0.0,72.0,-59.0,-45.0,19.0
+512,Ontario,Regional Municipality of York,-26.0,2.0,59.0,-57.0,-43.0,19.0
+513,Ontario,Regional Municipality of York,-27.0,0.0,160.0,-51.0,-41.0,17.0
+514,Ontario,Regional Municipality of York,-27.0,5.0,142.0,-38.0,-5.0,8.0
+515,Ontario,Regional Municipality of York,-29.0,-1.0,127.0,-45.0,-8.0,7.0
+516,Ontario,Regional Municipality of York,-26.0,-2.0,62.0,-58.0,-44.0,18.0
+517,Ontario,Regional Municipality of York,-30.0,-2.0,15.0,-58.0,-44.0,19.0
+518,Ontario,Regional Municipality of York,-23.0,4.0,92.0,-56.0,-44.0,18.0
+519,Ontario,Regional Municipality of York,-25.0,4.0,34.0,-58.0,-43.0,19.0
+520,Ontario,Regional Municipality of York,-27.0,3.0,22.0,-55.0,-41.0,18.0
+521,Ontario,Regional Municipality of York,-26.0,9.0,138.0,-33.0,-5.0,7.0
+522,Ontario,Regional Municipality of York,-32.0,-3.0,-2.0,-52.0,-12.0,9.0
+523,Ontario,Regional Municipality of York,-28.0,-6.0,13.0,-60.0,-44.0,19.0
+524,Ontario,Regional Municipality of York,-29.0,0.0,31.0,-59.0,-45.0,19.0
+525,Ontario,Regional Municipality of York,-25.0,0.0,107.0,-56.0,-44.0,18.0
+526,Ontario,Regional Municipality of York,-26.0,1.0,88.0,-57.0,-42.0,18.0
+527,Ontario,Regional Municipality of York,-27.0,0.0,114.0,-55.0,-40.0,18.0
+528,Ontario,Regional Municipality of York,-20.0,3.0,265.0,-35.0,-2.0,6.0
+529,Ontario,Regional Municipality of York,-21.0,0.0,268.0,-41.0,-5.0,5.0
+530,Ontario,Regional Municipality of York,-21.0,-2.0,140.0,-56.0,-43.0,17.0
+531,Ontario,Regional Municipality of York,-22.0,2.0,143.0,-56.0,-43.0,17.0
+532,Ontario,Regional Municipality of York,-17.0,4.0,88.0,-58.0,-45.0,18.0
+533,Ontario,Regional Municipality of York,-22.0,4.0,70.0,-58.0,-42.0,18.0
+534,Ontario,Regional Municipality of York,-23.0,0.0,38.0,-57.0,-43.0,19.0
+535,Ontario,Regional Municipality of York,-22.0,4.0,140.0,-41.0,-3.0,8.0
+536,Ontario,Regional Municipality of York,-33.0,-13.0,-20.0,-57.0,-12.0,10.0
+537,Ontario,Regional Municipality of York,-25.0,-5.0,18.0,-62.0,-44.0,19.0
+538,Ontario,Regional Municipality of York,-28.0,-4.0,13.0,-62.0,-44.0,20.0
+539,Ontario,Regional Municipality of York,-26.0,-3.0,10.0,-61.0,-45.0,20.0
+540,Ontario,Regional Municipality of York,-23.0,2.0,49.0,-60.0,-42.0,19.0
+541,Ontario,Regional Municipality of York,-22.0,2.0,89.0,-56.0,-41.0,18.0
+542,Ontario,Regional Municipality of York,-22.0,7.0,66.0,-42.0,-4.0,9.0
+543,Ontario,Regional Municipality of York,-39.0,-21.0,2.0,-57.0,-16.0,11.0
+544,Ontario,Regional Municipality of York,-24.0,-5.0,21.0,-62.0,-46.0,20.0
+545,Ontario,Regional Municipality of York,-24.0,-1.0,7.0,-63.0,-45.0,20.0
+546,Ontario,Regional Municipality of York,-22.0,-2.0,1.0,-62.0,-45.0,21.0
+547,Ontario,Regional Municipality of York,-19.0,6.0,26.0,-60.0,-43.0,20.0
+548,Ontario,Regional Municipality of York,-20.0,3.0,24.0,-58.0,-42.0,19.0
+549,Ontario,Regional Municipality of York,-20.0,9.0,116.0,-40.0,-5.0,9.0
+550,Ontario,Regional Municipality of York,-22.0,1.0,134.0,-47.0,-11.0,8.0
+551,Ontario,Regional Municipality of York,-22.0,-4.0,-12.0,-63.0,-45.0,20.0
+552,Ontario,Regional Municipality of York,-34.0,-12.0,1.0,-64.0,-48.0,22.0
+553,Ontario,Regional Municipality of York,-20.0,4.0,20.0,-60.0,-45.0,20.0
+554,Ontario,Regional Municipality of York,-21.0,7.0,25.0,-60.0,-43.0,20.0
+555,Ontario,Regional Municipality of York,-25.0,-2.0,0.0,-60.0,-42.0,21.0
+556,Ontario,Regional Municipality of York,-21.0,8.0,50.0,-42.0,-7.0,10.0
+557,Ontario,Regional Municipality of York,-23.0,2.0,59.0,-52.0,-13.0,9.0
+558,Ontario,Regional Municipality of York,-20.0,-2.0,19.0,-61.0,-45.0,19.0
+559,Ontario,Regional Municipality of York,-23.0,2.0,18.0,-61.0,-44.0,20.0
+560,Ontario,Regional Municipality of York,-25.0,-5.0,10.0,-60.0,-46.0,21.0
+561,Ontario,Regional Municipality of York,-19.0,7.0,19.0,-59.0,-43.0,20.0
+562,Ontario,Regional Municipality of York,-19.0,10.0,27.0,-57.0,-41.0,19.0
+563,Ontario,Regional Municipality of York,-19.0,10.0,5.0,-42.0,-7.0,11.0
+564,Ontario,Regional Municipality of York,-16.0,9.0,39.0,-47.0,-9.0,9.0
+565,Ontario,Regional Municipality of York,-36.0,-5.0,17.0,-64.0,-46.0,20.0
+566,Ontario,Regional Municipality of York,-36.0,-2.0,8.0,-63.0,-47.0,21.0
+567,Ontario,Regional Municipality of York,-36.0,-5.0,-15.0,-65.0,-47.0,22.0
+568,Ontario,Regional Municipality of York,-33.0,6.0,9.0,-63.0,-45.0,21.0
+569,Ontario,Regional Municipality of York,-35.0,1.0,9.0,-61.0,-44.0,21.0
+570,Ontario,Regional Municipality of York,-42.0,-3.0,41.0,-49.0,-15.0,12.0
+571,Ontario,Regional Municipality of York,-42.0,-6.0,32.0,-57.0,-19.0,11.0
+572,Ontario,Regional Municipality of York,-24.0,14.0,36.0,-64.0,-53.0,20.0
+573,Ontario,Regional Municipality of York,-24.0,26.0,25.0,-64.0,-54.0,21.0
+574,Ontario,Regional Municipality of York,-15.0,45.0,36.0,-62.0,-55.0,21.0
+575,Ontario,Regional Municipality of York,-30.0,36.0,-1.0,-70.0,-68.0,26.0
+576,Ontario,Regional Municipality of York,-83.0,-76.0,49.0,-83.0,-89.0,35.0
+577,Ontario,Regional Municipality of York,-64.0,-42.0,84.0,-66.0,-48.0,17.0
+578,Ontario,Regional Municipality of York,-51.0,-21.0,85.0,-63.0,-27.0,12.0
+579,Ontario,Regional Municipality of York,-41.0,-3.0,35.0,-77.0,-76.0,29.0
+580,Ontario,Regional Municipality of York,-37.0,6.0,48.0,-71.0,-65.0,26.0
+581,Ontario,Regional Municipality of York,-35.0,15.0,0.0,-72.0,-65.0,27.0
+582,Ontario,Regional Municipality of York,-32.0,26.0,35.0,-73.0,-69.0,27.0
+583,Ontario,Regional Municipality of York,-77.0,-70.0,44.0,-86.0,-88.0,37.0
+584,Ontario,Regional Municipality of York,-55.0,-20.0,102.0,-62.0,-35.0,16.0
+585,Ontario,Regional Municipality of York,-55.0,-23.0,62.0,-66.0,-28.0,13.0
+586,Ontario,Regional Municipality of York,-44.0,-11.0,17.0,-69.0,-53.0,23.0
+587,Ontario,Regional Municipality of York,-45.0,-11.0,11.0,-67.0,-53.0,24.0
+588,Ontario,Regional Municipality of York,-45.0,-13.0,8.0,-68.0,-53.0,25.0
+589,Ontario,Regional Municipality of York,-45.0,-9.0,25.0,-67.0,-52.0,25.0
+590,Ontario,Regional Municipality of York,-48.0,-16.0,9.0,-67.0,-50.0,25.0
+591,Ontario,Regional Municipality of York,-48.0,-9.0,114.0,-55.0,-18.0,14.0
+592,Ontario,Regional Municipality of York,-52.0,-19.0,71.0,-64.0,-23.0,12.0
+593,Ontario,Regional Municipality of York,-47.0,-19.0,12.0,-69.0,-52.0,24.0
+594,Ontario,Regional Municipality of York,-47.0,-12.0,0.0,-69.0,-53.0,24.0
+595,Ontario,Regional Municipality of York,-44.0,-8.0,8.0,-68.0,-53.0,24.0
+596,Ontario,Regional Municipality of York,-55.0,-24.0,7.0,-70.0,-55.0,26.0
+597,Ontario,Regional Municipality of York,-54.0,-26.0,-14.0,-71.0,-54.0,27.0
+598,Ontario,Regional Municipality of York,-55.0,-18.0,105.0,-62.0,-24.0,15.0
+599,Ontario,Regional Municipality of York,-57.0,-27.0,45.0,-69.0,-29.0,14.0
+600,Ontario,Regional Municipality of York,-52.0,-24.0,13.0,-71.0,-56.0,24.0
+601,Ontario,Regional Municipality of York,-52.0,-21.0,-3.0,-71.0,-56.0,25.0
+602,Ontario,Regional Municipality of York,-51.0,-23.0,-12.0,-71.0,-56.0,26.0
+603,Ontario,Regional Municipality of York,-50.0,-17.0,2.0,-70.0,-54.0,26.0
+604,Ontario,Regional Municipality of York,-52.0,-21.0,-16.0,-70.0,-53.0,26.0
+605,Ontario,Regional Municipality of York,-52.0,-15.0,50.0,-60.0,-22.0,15.0
+606,Ontario,Regional Municipality of York,-56.0,-22.0,44.0,-67.0,-27.0,13.0
+607,Ontario,Regional Municipality of York,-49.0,-19.0,29.0,-70.0,-55.0,24.0
+608,Ontario,Regional Municipality of York,-60.0,-37.0,-18.0,-72.0,-58.0,27.0
+609,Ontario,Regional Municipality of York,-48.0,-16.0,9.0,-70.0,-55.0,25.0
+610,Ontario,Regional Municipality of York,-49.0,-18.0,-17.0,-71.0,-54.0,26.0
+611,Ontario,Regional Municipality of York,-51.0,-21.0,-21.0,-70.0,-52.0,26.0
+612,Ontario,Regional Municipality of York,-49.0,-12.0,102.0,-61.0,-20.0,14.0
+613,Ontario,Regional Municipality of York,-53.0,-20.0,50.0,-68.0,-26.0,13.0
+614,Ontario,Regional Municipality of York,-46.0,-18.0,17.0,-71.0,-55.0,24.0
+615,Ontario,Regional Municipality of York,-49.0,-17.0,-2.0,-71.0,-55.0,25.0
+616,Ontario,Regional Municipality of York,-47.0,-17.0,13.0,-72.0,-55.0,25.0
+617,Ontario,Regional Municipality of York,-47.0,-12.0,45.0,-70.0,-54.0,25.0
+618,Ontario,Regional Municipality of York,-51.0,-23.0,-24.0,-71.0,-52.0,26.0
+619,Ontario,Regional Municipality of York,-50.0,-11.0,28.0,-63.0,-20.0,15.0
+620,Ontario,Toronto Division,-33.0,-6.0,39.0,-53.0,-47.0,15.0
+621,Ontario,Toronto Division,-34.0,-9.0,12.0,-55.0,-47.0,17.0
+622,Ontario,Toronto Division,-33.0,-3.0,14.0,-53.0,-46.0,17.0
+623,Ontario,Toronto Division,-31.0,1.0,40.0,-50.0,-45.0,15.0
+624,Ontario,Toronto Division,-35.0,-4.0,68.0,-39.0,-9.0,5.0
+625,Ontario,Toronto Division,-34.0,-5.0,48.0,-40.0,-12.0,3.0
+626,Ontario,Toronto Division,-66.0,-54.0,52.0,-75.0,-82.0,24.0
+627,Ontario,Toronto Division,-36.0,-2.0,51.0,-53.0,-49.0,16.0
+628,Ontario,Toronto Division,-36.0,-8.0,36.0,-54.0,-47.0,17.0
+629,Ontario,Toronto Division,-41.0,-13.0,-30.0,-56.0,-48.0,20.0
+630,Ontario,Toronto Division,-36.0,-5.0,32.0,-51.0,-45.0,17.0
+631,Ontario,Toronto Division,-31.0,-5.0,91.0,-37.0,-8.0,6.0
+632,Ontario,Toronto Division,-35.0,-12.0,39.0,-42.0,-15.0,7.0
+633,Ontario,Toronto Division,-40.0,-13.0,-18.0,-57.0,-49.0,18.0
+634,Ontario,Toronto Division,-36.0,-7.0,25.0,-54.0,-48.0,17.0
+635,Ontario,Toronto Division,-38.0,-12.0,12.0,-55.0,-48.0,19.0
+636,Ontario,Toronto Division,-38.0,-7.0,5.0,-54.0,-46.0,19.0
+637,Ontario,Toronto Division,-35.0,-8.0,69.0,-50.0,-45.0,16.0
+638,Ontario,Toronto Division,-33.0,-5.0,49.0,-38.0,-9.0,7.0
+639,Ontario,Toronto Division,-34.0,-11.0,30.0,-41.0,-15.0,6.0
+640,Ontario,Toronto Division,-39.0,-11.0,0.0,-56.0,-48.0,17.0
+641,Ontario,Toronto Division,-41.0,-14.0,-18.0,-56.0,-48.0,18.0
+642,Ontario,Toronto Division,-34.0,-6.0,25.0,-54.0,-46.0,17.0
+643,Ontario,Toronto Division,-37.0,-7.0,-8.0,-55.0,-46.0,18.0
+644,Ontario,Toronto Division,-37.0,-6.0,-10.0,-53.0,-45.0,17.0
+645,Ontario,Toronto Division,-31.0,-2.0,47.0,-36.0,-8.0,6.0
+646,Ontario,Toronto Division,-38.0,-12.0,-23.0,-45.0,-17.0,7.0
+647,Ontario,Toronto Division,-39.0,-13.0,-23.0,-57.0,-48.0,18.0
+648,Ontario,Toronto Division,-39.0,-10.0,-8.0,-55.0,-47.0,17.0
+649,Ontario,Toronto Division,-36.0,-11.0,34.0,-54.0,-47.0,18.0
+650,Ontario,Toronto Division,-36.0,-8.0,25.0,-54.0,-45.0,18.0
+651,Ontario,Toronto Division,-35.0,-8.0,46.0,-51.0,-44.0,17.0
+652,Ontario,Toronto Division,-29.0,-6.0,112.0,-33.0,-7.0,6.0
+653,Ontario,Toronto Division,-28.0,-8.0,115.0,-36.0,-11.0,4.0
+654,Ontario,Toronto Division,-36.0,-10.0,45.0,-55.0,-47.0,17.0
+655,Ontario,Toronto Division,-34.0,-7.0,63.0,-53.0,-46.0,16.0
+656,Ontario,Toronto Division,-35.0,-9.0,25.0,-56.0,-48.0,18.0
+657,Ontario,Toronto Division,-37.0,-6.0,11.0,-55.0,-45.0,18.0
+658,Ontario,Toronto Division,-38.0,-8.0,-4.0,-53.0,-45.0,18.0
+659,Ontario,Toronto Division,-33.0,-5.0,43.0,-41.0,-10.0,8.0
+660,Ontario,Toronto Division,-44.0,-22.0,-40.0,-51.0,-19.0,9.0
+661,Ontario,Toronto Division,-40.0,-14.0,-23.0,-59.0,-48.0,18.0
+662,Ontario,Toronto Division,-41.0,-13.0,-22.0,-58.0,-48.0,18.0
+663,Ontario,Toronto Division,-41.0,-15.0,-23.0,-59.0,-48.0,19.0
+664,Ontario,Toronto Division,-37.0,-8.0,3.0,-57.0,-46.0,19.0
+665,Ontario,Toronto Division,-34.0,-5.0,33.0,-54.0,-47.0,18.0
+666,Ontario,Toronto Division,-30.0,-2.0,11.0,-41.0,-8.0,8.0
+667,Ontario,Toronto Division,-42.0,-23.0,-34.0,-49.0,-17.0,9.0
+668,Ontario,Toronto Division,-51.0,-21.0,-28.0,-62.0,-50.0,20.0
+669,Ontario,Toronto Division,-49.0,-18.0,-25.0,-62.0,-50.0,20.0
+670,Ontario,Toronto Division,-49.0,-21.0,-30.0,-62.0,-49.0,21.0
+671,Ontario,Toronto Division,-44.0,-10.0,-9.0,-60.0,-48.0,20.0
+672,Ontario,Toronto Division,-45.0,-14.0,-8.0,-59.0,-47.0,20.0
+673,Ontario,Toronto Division,-43.0,-11.0,34.0,-49.0,-14.0,10.0
+674,Ontario,Toronto Division,-43.0,-15.0,42.0,-50.0,-19.0,8.0
+675,Ontario,Toronto Division,-48.0,-24.0,-49.0,-63.0,-50.0,20.0
+676,Ontario,Toronto Division,-51.0,-20.0,-28.0,-61.0,-51.0,21.0
+677,Ontario,Toronto Division,-46.0,-13.0,-16.0,-60.0,-49.0,20.0
+678,Ontario,Toronto Division,-45.0,-10.0,-13.0,-59.0,-48.0,20.0
+679,Ontario,Toronto Division,-49.0,-18.0,-30.0,-60.0,-48.0,21.0
+680,Ontario,Toronto Division,-45.0,-10.0,4.0,-49.0,-15.0,10.0
+681,Ontario,Toronto Division,-47.0,-16.0,9.0,-52.0,-21.0,8.0
+682,Ontario,Toronto Division,-48.0,-17.0,-23.0,-62.0,-49.0,19.0
+683,Ontario,Toronto Division,-47.0,-15.0,-14.0,-61.0,-49.0,19.0
+684,Ontario,Toronto Division,-50.0,-21.0,-29.0,-62.0,-50.0,21.0
+685,Ontario,Toronto Division,-46.0,-10.0,-13.0,-60.0,-48.0,20.0
+686,Ontario,Toronto Division,-45.0,-11.0,4.0,-58.0,-47.0,20.0
+687,Ontario,Toronto Division,-50.0,-18.0,-33.0,-55.0,-18.0,12.0
+688,Ontario,Toronto Division,-46.0,-14.0,2.0,-52.0,-20.0,8.0
+689,Ontario,Toronto Division,-47.0,-14.0,-23.0,-62.0,-50.0,19.0
+690,Ontario,Toronto Division,-46.0,-12.0,-22.0,-61.0,-50.0,19.0
+691,Ontario,Toronto Division,-49.0,-20.0,-42.0,-64.0,-50.0,21.0
+692,Ontario,Toronto Division,-45.0,-8.0,-21.0,-60.0,-49.0,21.0
+693,Ontario,Toronto Division,-45.0,-10.0,-12.0,-59.0,-48.0,20.0
+694,Ontario,Toronto Division,-46.0,-10.0,-6.0,-51.0,-16.0,11.0
+695,Ontario,Toronto Division,-45.0,-14.0,-5.0,-52.0,-20.0,9.0
+696,Ontario,Toronto Division,-39.0,-1.0,-4.0,-62.0,-54.0,19.0
+697,Ontario,Toronto Division,-37.0,7.0,-6.0,-61.0,-55.0,18.0
+698,Ontario,Toronto Division,-32.0,19.0,1.0,-60.0,-55.0,18.0
+699,Ontario,Toronto Division,-40.0,16.0,-30.0,-67.0,-67.0,23.0
+700,Ontario,Toronto Division,-84.0,-74.0,-2.0,-84.0,-86.0,32.0
+701,Ontario,Toronto Division,-68.0,-44.0,-1.0,-67.0,-43.0,15.0
+702,Ontario,Toronto Division,-56.0,-29.0,12.0,-60.0,-27.0,10.0
+703,Ontario,Toronto Division,-52.0,-16.0,-15.0,-75.0,-74.0,27.0
+704,Ontario,Toronto Division,-47.0,-8.0,5.0,-68.0,-64.0,23.0
+705,Ontario,Toronto Division,-47.0,-6.0,-33.0,-69.0,-64.0,25.0
+706,Ontario,Toronto Division,-41.0,11.0,5.0,-68.0,-67.0,25.0
+707,Ontario,Toronto Division,-80.0,-71.0,-4.0,-84.0,-86.0,34.0
+708,Ontario,Toronto Division,-58.0,-23.0,14.0,-62.0,-32.0,15.0
+709,Ontario,Toronto Division,-58.0,-27.0,-9.0,-61.0,-27.0,12.0
+710,Ontario,Toronto Division,-53.0,-18.0,-22.0,-66.0,-55.0,22.0
+711,Ontario,Toronto Division,-53.0,-17.0,-21.0,-66.0,-55.0,22.0
+712,Ontario,Toronto Division,-54.0,-21.0,-23.0,-67.0,-55.0,23.0
+713,Ontario,Toronto Division,-53.0,-15.0,-12.0,-66.0,-54.0,24.0
+714,Ontario,Toronto Division,-55.0,-20.0,-19.0,-66.0,-53.0,24.0
+715,Ontario,Toronto Division,-51.0,-14.0,28.0,-57.0,-20.0,13.0
+716,Ontario,Toronto Division,-54.0,-21.0,6.0,-60.0,-25.0,11.0
+717,Ontario,Toronto Division,-55.0,-22.0,-25.0,-68.0,-55.0,22.0
+718,Ontario,Toronto Division,-55.0,-20.0,-27.0,-68.0,-55.0,22.0
+719,Ontario,Toronto Division,-53.0,-18.0,-23.0,-68.0,-55.0,22.0
+720,Ontario,Toronto Division,-61.0,-27.0,-25.0,-70.0,-57.0,25.0
+721,Ontario,Toronto Division,-60.0,-29.0,-32.0,-70.0,-57.0,25.0
+722,Ontario,Toronto Division,-57.0,-21.0,22.0,-63.0,-26.0,14.0
+723,Ontario,Toronto Division,-59.0,-28.0,0.0,-64.0,-30.0,12.0
+724,Ontario,Toronto Division,-59.0,-28.0,-22.0,-70.0,-58.0,23.0
+725,Ontario,Toronto Division,-59.0,-27.0,-27.0,-70.0,-58.0,23.0
+726,Ontario,Toronto Division,-59.0,-30.0,-34.0,-71.0,-58.0,25.0
+727,Ontario,Toronto Division,-57.0,-22.0,-21.0,-70.0,-56.0,24.0
+728,Ontario,Toronto Division,-58.0,-25.0,-33.0,-69.0,-56.0,25.0
+729,Ontario,Toronto Division,-55.0,-19.0,-2.0,-62.0,-25.0,14.0
+730,Ontario,Toronto Division,-58.0,-26.0,-6.0,-64.0,-29.0,11.0
+731,Ontario,Toronto Division,-57.0,-24.0,-12.0,-70.0,-57.0,23.0
+732,Ontario,Toronto Division,-66.0,-41.0,-37.0,-71.0,-59.0,25.0
+733,Ontario,Toronto Division,-57.0,-24.0,-22.0,-69.0,-57.0,24.0
+734,Ontario,Toronto Division,-58.0,-25.0,-38.0,-70.0,-56.0,25.0
+735,Ontario,Toronto Division,-57.0,-24.0,-38.0,-69.0,-56.0,25.0
+736,Ontario,Toronto Division,-53.0,-15.0,20.0,-61.0,-23.0,13.0
+737,Ontario,Toronto Division,-57.0,-25.0,-17.0,-64.0,-28.0,11.0
+738,Ontario,Toronto Division,-57.0,-25.0,-32.0,-70.0,-57.0,23.0
+739,Ontario,Toronto Division,-57.0,-24.0,-29.0,-70.0,-57.0,23.0
+740,Ontario,Toronto Division,-56.0,-24.0,-17.0,-70.0,-56.0,23.0
+741,Ontario,Toronto Division,-54.0,-17.0,-2.0,-69.0,-55.0,23.0
+742,Ontario,Toronto Division,-58.0,-27.0,-42.0,-70.0,-55.0,25.0
+743,Ontario,Toronto Division,-55.0,-19.0,-22.0,-63.0,-23.0,14.0
