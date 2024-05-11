@@ -9,7 +9,7 @@ Firstly, I performed some data mining to access data that can help me analyze CO
 Secondly, data staging normalized the gathered data and created SQL DBs.
 
 ## Data Visualization & Feel
-Third, complex SQL queries should be created to give a feel for the data. 
+Third, relevant SQL queries should be created to give a feel for the data. 
 
 For example, the query below gives you the number of cases in Ottawa and Toronto grouped by quarter and drilled down to months of the year during workplace closure, restrictions on gatherings, and stay-at-home order periods.
 
